@@ -1,0 +1,35 @@
+/*
+    Document   : BrowseByCourse.css
+    Created on : Nov 10, 2010
+    Author     : Wilson Kwok
+*/
+.course-mainbody {
+    padding-top: 3em;
+    padding-bottom: 15.5em;
+    padding-left: 15em;
+    width: 100em;
+    color: #000000;
+}
+
+.course-columns {
+     width: 10em;
+     padding-right: 1.3em;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+}
+
+.course-error {
+    color: #FF0000;
+    font-size: 1em;
+}
+
+.school-name {
+    font-size: 1em;
+    color: #000000;
+}
+
+.instruction {
+    font-size: 0.9em;
+    color: #151B8D;
+}

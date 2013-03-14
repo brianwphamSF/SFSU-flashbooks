@@ -1,0 +1,67 @@
+10
+
+dir
+234
+https://studentbooks07.googlecode.com/svn/trunk/flashbooks/images/books
+https://studentbooks07.googlecode.com/svn
+
+
+
+2010-11-05T06:43:09.271148Z
+140
+wilson.m.kwok
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2e867bd3-9250-cd84-999b-d558f6fad3e5
+
+Sommerville-software-engineering
+dir
+
+carrano-walls-and-mirrors
+dir
+
+celko-thinking-in-sets
+dir
+
+epp-descrete-mathematics-with-applications
+dir
+
+mano-logic-and-computer-design-fundamentals
+dir
+
+mccracken-user-centered-website-development
+dir
+
+navidi-statistics
+dir
+
+savitch-absolute-cpp
+dir
+
+siever-linux-in-a-nutshell
+dir
+
+silberschatz-operating-system-concepts
+dir
+
+sommerville-software-engineering-ed6
+dir
+
+webber-modern-programming-languages
+dir
+
+wegner-programming-with-ada
+dir
+

@@ -1,0 +1,128 @@
+/*
+    Document   : SearchResults.css
+    Created on : Oct 25, 2010
+    Author     : Shenhaochen Zhu
+*/
+.search-result-mainbody {    
+    padding-left: 15em;
+    padding-bottom: 15em;
+    width: 100em;
+    color: #000000;
+}
+
+.shop-cart-warning {
+    color: #FF0000;
+    font-size:  1em;
+}
+
+.breadcrumbs-column-one {
+     width: 2em;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+}
+
+.breadcrumbs-column-two {
+     width: 20em;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+}
+
+.breadcrumbs-column-three {
+     width: 40em;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+}
+
+.search-results-table {
+    padding-bottom: 1em;
+    border-width: 0.1em;
+    border-bottom-style: solid;
+    border-color: #736F6E;
+}
+
+.search-results-column-one {
+     width: 2em;
+     font-size: 0.8em;
+     text-align: justify;
+     vertical-align:text-top;
+}
+
+.search-results-column-two {
+     width: 11em;
+     font-size: 0.8em;
+     text-align: left;
+}
+
+.search-results-column-three {
+     width: 45em;
+     font-size: 0.8em;
+     text-align: left;
+     vertical-align:text-top;
+}
+
+.search-results-column-four {
+     width:  6em;
+     padding-left: 1.5em;
+     font-size: 0.8em;
+     text-align:  left;
+     vertical-align:text-top;
+}
+
+.book-title {    
+    font-size: 1.3em;
+    color: #151B8D;
+}
+
+.book-author {
+    font-size: 1em;
+}
+
+.book-price {
+    font-size: 1.3em;
+    color: #C11B17;
+}
+
+.book-description-label {
+    font-size: 1.2em;
+    color: #151B8D;
+}
+
+.book-description {
+    font-size: 1em;
+}
+
+.qty-drop-down-box {
+    width: 4em;
+}
+
+.form-button {
+    border-color: #B4CFEC;
+    background-color:#FFFF00;
+    height: 2.2em;
+    width:  8.5em;
+    font-size: 0.9em;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.change-qty-button {
+    border-color:#B4CFEC;
+    background-color: #151B8D;
+    height: 2.2em;
+    width: 8.5em;
+    font-size: 0.85em;
+    font-weight: bold;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+
+.add-to-cart-error {
+    padding-top: 1.5em;
+    color: red;
+    font-size: 1em;
+    font-weight: bold;
+}

@@ -1,0 +1,78 @@
+/*
+    Document   : Registration.css
+    Created on : Oct 28, 2010
+    Author     : Ning Jiang
+*/
+.registration-mainbody {
+    padding-top: 1.55em;
+    padding-left: 15em;
+    width: 100em;
+    color: #000000;
+}
+
+.registration-prompt {
+    padding-left: 7em;
+    padding-top: 2em;
+    text-align: justify;
+    font-family: "Comic Sans MS", Verdana, Sylfaen, Tahoma, Trebuchet;
+    font-size: 1em;
+    font-weight: bold;
+    color: #F87217;
+}
+
+.registration-instruction1 {
+    padding-top: 1em;
+    padding-left: 12em;
+    text-align: justify;
+    font-family: "Comic Sans MS", Verdana, Sylfaen, Tahoma, Trebuchet;
+    font-size: 1em;
+    color: #F87217;
+}
+
+.registration-instruction2 {
+    padding-top: 0.1em;
+    padding-left: 15em;
+    text-align: justify;
+    font-family: "Comic Sans MS", Verdana, Sylfaen, Tahoma, Trebuchet;
+    font-size: 0.8em;
+    color: #000000;
+}
+
+.registration-body {
+    padding-left: 16em;
+    font-size: 0.8em;
+    text-align: right;
+}
+
+.registration-button {
+    border-color:#B4CFEC;
+    background-color:#FFFF00;
+    height: 2.2em;
+    width: 8em;
+    font-size: 0.7em;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.registration-error {
+    padding-left: 6em;
+    color: red;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.registration-field-error {
+    padding-left: 16em;
+    color: red;
+    font-size: 0.8em;
+    font-weight: bold;
+    text-align: right;
+}
+
+.checkout-status {
+    background-image: url(../images/checkout-status-signin.png);
+    background-repeat: no-repeat;
+    margin-left: 13.45%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}

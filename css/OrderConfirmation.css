@@ -1,0 +1,30 @@
+/*
+    Document   : OrderConfirmation.css
+    Created on : Nov 2, 2010
+    Author     : Wilson Kwok
+*/
+.conf-mainbody {
+    padding-top: 3em;
+    padding-bottom: 5.5em;
+    padding-left: 15em;
+    width: 100em;
+    color: #000000;
+}
+
+.conf-prompt {
+    text-align: justify;
+    font-family: "Comic Sans MS", Verdana, Sylfaen, Tahoma, Trebuchet;
+    font-size: 1em;
+    font-weight: bold;
+    color: #F87217;
+}
+
+.print-conf-button {
+    border-color:#B4CFEC;
+    background-color:#FFFF00;
+    height: 2.2em;
+    width: 17em;
+    font-size: 0.7em;
+    font-weight: bold;
+    cursor: pointer;
+}

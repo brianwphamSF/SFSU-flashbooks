@@ -1,0 +1,179 @@
+/*
+    Document   : style
+    Created on : Sep 22, 2010, 7:16:10 PM
+    Author     : Qianjun Yang
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/*
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+body {
+    padding: 0;
+    text-align: justify;
+    font-family: "Comic Sans MS", Verdana, Sylfaen, Tahoma, Trebuchet;
+    font-weight: bold;
+    color: #616161;
+}
+
+body.mainbody {
+    background: #787878;
+}
+
+/* Header */
+
+#header {
+    background: #FFFFFF url("../images/logo3.gif") no-repeat top;
+    margin: 0 auto;
+    min-height: 100%;
+    height: 100%;
+    width: 1000px;
+    clear: both;
+    padding-top: 58px;
+}
+
+/* primary-Menu */
+
+#primary-menu {
+    float: left;
+    width: 990px;
+    margin: 5px;
+    padding: 0;
+    height: 50px;
+    background: url(../images/top-header.jpg) no-repeat left top;
+}
+
+#primary-menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+#primary-menu a {
+    display: block;
+    margin: 0;
+    padding: 18px 24px 0 24px;
+    text-decoration: none;
+    text-transform: capitalize;
+    background: url(../images/vertical.jpg) no-repeat right top;
+    color: #FFFFFF;
+    height: 32px;
+}
+
+#primary-menu li {
+    position: relative;
+    float:left;
+    list-style:none;
+    display: inline;
+    padding:0px;
+    margin:0px;
+    width:auto;
+}
+
+/* Wrapper */
+
+#wrapper {
+    width: 1000px;
+    margin: 0 auto;
+    background: #ffffff;
+}
+
+/* Page */
+
+#page {
+    padding: 20px 5px;
+    background: #FFFFFF;
+}
+
+/* Content */
+
+#content {
+    float: left;
+    width: 970px;
+    padding:0px 10px;
+}
+
+.showpic {
+    border-style: dotted;
+    color: #999999;
+    margin: 10px 5px 5px 5px;
+    text-align: center;
+}
+
+.sidebars #content {
+    width:525px;
+}
+
+.sidebar-left #content,
+.sidebar-right #content {
+    width:750px;
+}
+
+.title-highlight{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+    color: #0099ff;
+    border-style:double;
+}
+/* Sidebars */
+
+#sidebar-left {
+    float: left;
+}
+
+#sidebar-right {
+    float: right;
+}
+
+.sidebar {
+    width: 220px;
+    padding: 0;
+    font-size: 12px;
+}
+
+.sidebar h2 {
+    height: 30px;
+    margin: 0 0 0 0;
+    padding: 10px 15px 0px 15px;
+    background: #890208 url(../images/block-header.jpg) no-repeat left top;
+    letter-spacing: -1px;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+/* change link color into orange */
+a.view-title {
+    color: #ff9933;
+    font-size: 16px;
+}
+
+.form-submit {
+    border: #FFFFFF 2px;
+    -moz-border-radius-bottomright:10px;
+    -moz-border-radius-topleft:10px;
+    color:#FFFFFF;
+    padding: 2px 10px 2px 10px;
+    /*    background-color:#000088;*/ /*blue*/
+    background-color:#ff3300;
+
+}
+
+.icon-center{
+    text-align: center;
+
+}
+/* Footer */
+
+#footer {
+    clear: both;
+    color: #ffffff;
+    width: 990px;
+    text-align: center;
+    padding: 0;
+    margin: 0 auto; 
+    background: #FFFFFF url(../images/top-header.jpg) no-repeat left bottom;
+}

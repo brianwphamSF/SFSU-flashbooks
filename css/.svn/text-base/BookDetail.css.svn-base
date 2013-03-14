@@ -1,0 +1,94 @@
+/*
+    Document   : BookDetail.css
+    Created on : Nov 10, 2010
+    Author     : Qianjun Yang
+*/
+.search-result-mainbody {    
+    padding-left: 15em;
+    padding-bottom: 11.6em;
+    width: 100em;
+    color: #000000;
+}
+
+.shop-cart-warning {
+    color: #FF0000;
+    font-size: 1em;
+}
+
+.search-results-table {
+    padding-bottom: 1em;
+    border-width: 0.1em;
+    border-bottom-style: solid;
+    border-color: #736F6E;
+}
+
+.search-results-column-one {
+     width: 12em;
+     font-size: 0.8em;
+     text-align: left;
+}
+
+.search-results-column-two {
+     width: 50em;
+     font-size: 0.8em;
+     text-align: left;
+     vertical-align:text-top;
+}
+
+.book-title {    
+    font-size: 1.5em;
+    color: #151B8D;
+}
+
+.book-author {
+    font-size: 1.2em;
+}
+
+.book-price {
+    font-size: 1.2em;
+    color: #C11B17;
+}
+
+.book-description-label {
+    font-size: 1.2em;
+    color: #151B8D;
+}
+
+.book-description {
+     width: 50em;
+     font-size: 1em;
+     text-align: left;
+     vertical-align:text-top;
+}
+
+.qty-drop-down-box {
+    width: 4em;
+}
+
+.form-button {
+    border-color: #B4CFEC;
+    background-color:#FFFF00;
+    height: 2.2em;
+    width: 8.5em;
+    font-size: 0.9em;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.change-qty-button {
+    border-color:#B4CFEC;
+    background-color: #151B8D;
+    height: 2.2em;
+    width: 8.5em;
+    font-size: 0.85em;
+    font-weight: bold;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.add-to-cart-error {
+    padding-top: 1.5em;
+    color: red;
+    font-size: 1em;
+    font-weight: bold;
+}

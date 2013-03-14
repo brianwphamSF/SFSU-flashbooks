@@ -1,0 +1,159 @@
+
+/*
+    Document   : CheckoutPayment
+    Created on : Sep 28, 2010, 2:37:33 PM
+    Author     : Jingjing
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.shop-cart-mainbody {
+    padding-top: 3em;
+    padding-bottom: 12.3em;
+    padding-left: 15em;
+    width: 100em;
+    color: #000000;
+}
+
+.shop-cart-image {
+    background-image: url(../images/shoppingcart-title.png);
+    background-repeat: no-repeat;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    margin-right: 0.5em;
+}
+
+.shop-cart-warning {
+    color: #FF0000;
+    font-size: 1em;
+}
+
+.shop-cart-column-header-one {
+     width: 44em;
+     border-bottom-style: groove;
+     border-color: #3BB9FF;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+     color: #151B8D;
+}
+
+.shop-cart-column-header-two {
+     width: 7em;
+     border-bottom-style: groove;
+     border-color: #3BB9FF;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+     color: #151B8D;
+}
+
+.shop-cart-column-header-three {
+     width: 7em;
+     border-bottom-style: groove;
+     border-color: #3BB9FF;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+     color: #151B8D;
+}
+
+.shop-cart-column-header-four {
+     width: 12em;
+     border-bottom-style: groove;
+     border-color: #3BB9FF;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+     color: #151B8D;
+}
+
+.shop-cart-column-body-one {
+     width: 43em;
+     padding-right: 1.3em;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+}
+
+.shop-cart-column-body-two {
+     width: 7em;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+     color: #C11B17;
+}
+
+.shop-cart-column-body-three {
+     width: 7em;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+}
+
+.shop-cart-column-body-four {
+     width: 12em;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+}
+
+.qty-drop-down-box {
+    width: 4em;
+}
+
+.subtotal-column-one {
+     width: 31em;
+     padding-bottom: 0.5em;
+}
+
+.subtotal-column-two {
+     width: 10em;
+     padding-bottom: 0.5em;
+     font-size: 0.9em;
+     text-align: right;
+}
+
+.subtotal-column-three {
+     width: 7.2em;
+     padding-bottom: 0.5em;
+     font-size: 0.9em;
+     text-align: left;
+     color: #C11B17;
+}
+
+.subtotal-column-four {
+     width: 12em;
+     padding-bottom: 0.5em;
+}
+
+.checkout-button {
+    border-color: #B4CFEC;
+    background-color:#FFFF00;
+    height: 2.2em;
+    width: 8.5em;
+    font-size: 0.7em;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.change-qty-button {
+    border-color:#B4CFEC;
+    background-color: #151B8D;
+    height: 2.2em;
+    width: 8.5em;
+    font-size: 0.85em;
+    font-weight: bold;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.continue-hopping-button {
+    border-color: #B4CFEC;
+    background-color:#FFFF00;
+    height: 2.2em;
+    width: 13em;
+    font-size: 0.7em;
+    font-weight: bold;
+    cursor: pointer;
+}

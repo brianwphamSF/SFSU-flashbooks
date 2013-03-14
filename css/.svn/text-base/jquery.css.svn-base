@@ -1,0 +1,34 @@
+ul, li{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+
+.menu_head{
+    border:1px solid #998675;
+}
+
+.menu_body {
+/*    display:none;*/
+    width:184px;
+    border-right:1px solid #998675;
+    border-bottom:1px solid #998675;
+    border-left:1px solid #998675;
+}
+.menu_body li{
+    background:#00bfff;
+}
+.menu_body li.alt{
+    background:#afeeee;
+}
+.menu_body li a{
+    color:#000000;
+    text-decoration:none;
+    text-align: left;
+    padding:10px;
+    display:block;
+}
+.menu_body li a:hover{
+    padding:15px 10px;
+    font-weight:bold;
+}

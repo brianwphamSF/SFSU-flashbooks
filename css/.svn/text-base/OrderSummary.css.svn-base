@@ -1,0 +1,85 @@
+/*
+    Document   : CheckoutShippingMethod
+    Created on : Sep 28, 2010, 2:37:33 PM
+    Author     : Wilson
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.submit-order-mainbody {
+    padding-top: 3em;
+    padding-left: 15em;
+    width: 80em;
+    color: #000000;
+}
+
+.checkout-status {
+    background-image: url(../images/checkout-status-place-order.png);
+    background-repeat: no-repeat;
+    margin-top: 0.05em;
+    margin-left: 15.1em;
+    margin-bottom: 1em;
+}
+
+.review-order-prompt {
+    padding-bottom: 1.5em;
+    text-align: justify;
+    font-family: "Comic Sans MS", Verdana, Sylfaen, Tahoma, Trebuchet;
+    font-size: 1em;
+    font-weight: bold;
+    color: #F87217;
+}
+
+.review-order-body {
+    padding-left: 4em;
+    width: 50em;
+}
+
+.review-order-table {
+    width: 20em;
+    float: left;
+    border: groove;
+    border-color: #3BB9FF;
+    border-spacing: 0.4em;
+    text-align: left;
+}
+
+.review-order-table-header {
+    width: 20em;
+    border-bottom: groove;    
+    border-bottom-width: 0.15em;
+    border-color: #3BB9FF;
+    font-size: 0.9em;
+    text-align: left;
+    color: #F87217;
+}
+
+.review-order-table-body {
+    font-size: 0.75em;
+    text-align: left;
+}
+
+.review-order-table-body-align-right {
+    font-size: 0.75em;
+    text-align: right;
+}
+
+.review-order-header {
+     width: 65em;
+     border-bottom-style: groove;
+     border-color: #3BB9FF;
+     padding-bottom: 0.5em;
+     font-family: "Comic Sans MS", Verdana, Sylfaen, Tahoma, Trebuchet;
+     font-size: 0.8em;
+     text-align: left;
+}
+
+.review-order-button {
+    border-color:#B4CFEC;
+    background-color:#FFFF00;
+    height: 2.5em;
+    width: 13.0em;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+}

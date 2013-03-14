@@ -1,0 +1,73 @@
+/*
+    Document   : Login.css
+    Created on : Nov 6, 2010
+    Author     : Wilson Kwok
+*/
+.login-mainbody {
+    padding-top: 4em;
+    padding-bottom: 6.7em;
+    padding-left: 17em;
+    width: 55%;
+    color: #000000;
+}
+
+.checkout-status {
+    background-image: url(../images/checkout-status-signin.png);
+    background-repeat: no-repeat;
+    margin-left: 27%;
+    margin-bottom: 3%;
+}
+
+#login-prompt {
+    text-align: justify;
+    font-family: "Comic Sans MS", Verdana, Sylfaen, Tahoma, Trebuchet;
+    font-size: 1em;
+    font-weight: bold;
+    color: #F87217;
+}
+
+#login-instruction {
+    font-family: "Comic Sans MS", Verdana, Sylfaen, Tahoma, Trebuchet;
+    font-size: 0.8em;
+    color: #000000;
+}
+
+.login-table {
+    width: 100%;
+    border-spacing: 0.3em;
+    font-size: 0.8em;
+    text-align: left;
+}
+
+#login-table-left-column {
+    font-size: 1em;
+    text-align: right;
+}
+
+#checkout-status {
+    padding-left: 30%;
+    width: 40%;
+    height: 40%;
+}
+
+#login-button {
+    border-color:#B4CFEC;
+    background-color:#FFFF00;
+    height: 2.5em;
+    width: 7em;
+    font-size: 0.85em;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#login-error {
+    color: red;
+    font-size: 0.85em;
+    font-weight: bold;
+}
+
+#login-field-error {
+    color: red;
+    font-weight: bold;
+    text-align: right;
+}

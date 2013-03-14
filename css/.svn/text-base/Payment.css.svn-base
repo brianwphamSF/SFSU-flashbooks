@@ -1,0 +1,160 @@
+/*
+    Document   : Payment.css
+    Created on : Oct 20, 2010
+    Author     : Wilson Kwok
+*/
+.payment-mainbody {
+    padding-top: 3em;
+    padding-left: 15em;
+    width: 100em;
+    color: #000000;
+}
+
+.checkout-status {
+    background-image: url(../images/checkout-status-shipping.png);
+    background-repeat: no-repeat;
+    margin-left: 15em;
+    margin-bottom: 2em;
+}
+
+.payment-prompt {
+    text-align: justify;
+    font-family: "Comic Sans MS", Verdana, Sylfaen, Tahoma, Trebuchet;
+    font-size: 1em;
+    font-weight: bold;
+    color: #F87217;
+}
+
+.payment-instruction {
+    text-align: justify;
+    width: 100%;
+    font-family: "Comic Sans MS", Verdana, Sylfaen, Tahoma, Trebuchet;
+    font-size: 0.8em;
+    color: #000000;
+}
+
+.existing-card-column-header-one {
+     width: 27em;
+     border-bottom-style: groove;
+     border-color: #3BB9FF;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+}
+
+.existing-card-column-header-two {
+     width: 10em;
+     border-bottom-style: groove;
+     border-color: #3BB9FF;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+}
+
+.existing-card-column-header-three {
+     width: 25em;
+     border-bottom-style: groove;
+     border-color: #3BB9FF;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+}
+
+.existing-card-column-body-one {
+     width: 10em;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+}
+
+.existing-card-column-body-two {
+     width: 17em;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+}
+
+.existing-card-column-body-three {
+     width: 10em;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+}
+
+.existing-card-column-body-four {
+     width: 50em;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+}
+
+.exist-card-button {
+    border-color:#B4CFEC;
+    background-color:#FFFF00;
+    height: 2.2em;
+    width: 11.0em;
+    font-size: 0.85em;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.new-card-table {
+    width: 55em;
+    border-spacing: 0.5em;
+    font-size: 0.8em;
+    text-align: left;
+}
+
+.new-card-header {
+    text-align: left;
+}
+
+.card-warning {
+    color: #FF0000;
+    font-size: 1.2em;
+}
+
+.new-card-button {
+    border-color:#B4CFEC;
+    background-color:#FFFF00;
+    height: 2.2em;
+    width: 8.5em;
+    font-size: 0.85em;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.new-card-error {
+    color: red;
+    font-size: 0.8em;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.new-card-field-error {
+    color: red;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: left;
+}
+
+.separator {
+    width: 50.5em;
+}
+/*
+.existing-card-table {
+    width: 96%;
+    border: groove;
+    border-color: #3BB9FF;
+    border-spacing: 0.4m;
+    font-size: 0.8em;
+    text-align: left;
+}
+.existing-card-body {
+     width: 115%;
+     margin-bottom: 1.5%;
+     padding-bottom: 0.2%;
+     font-size: 0.8em;
+     text-align: left;
+}
+*/

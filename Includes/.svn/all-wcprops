@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/227/trunk/flashbooks/Includes
+END
+BrowseByCourseOps.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/213/trunk/flashbooks/Includes/BrowseByCourseOps.php
+END
+BookDetailOps.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/207/trunk/flashbooks/Includes/BookDetailOps.php
+END
+LoginOps.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/179/trunk/flashbooks/Includes/LoginOps.php
+END
+RegistrationOps.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/217/trunk/flashbooks/Includes/RegistrationOps.php
+END
+OrderSummaryOps.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/207/trunk/flashbooks/Includes/OrderSummaryOps.php
+END
+ShoppingCartOps.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/227/trunk/flashbooks/Includes/ShoppingCartOps.php
+END
+PaymentOps.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/208/trunk/flashbooks/Includes/PaymentOps.php
+END
+db.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/210/trunk/flashbooks/Includes/db.php
+END
+AddressOps.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/208/trunk/flashbooks/Includes/AddressOps.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/155/trunk/flashbooks/Includes/config.php
+END
+ShippingMethodOps.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/201/trunk/flashbooks/Includes/ShippingMethodOps.php
+END
+SearchResultsOps.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/220/trunk/flashbooks/Includes/SearchResultsOps.php
+END

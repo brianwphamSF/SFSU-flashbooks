@@ -1,0 +1,232 @@
+/*
+    Document   : stylever2
+    Created on : Oct 26, 2010, 7:27:45 PM
+    Author     : Qianjun
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/*
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+/* $Id: style.css,v 1.3 2009/08/17 08:40:53 cignex Exp $ */
+
+
+body {
+    padding: 0;
+    text-align: justify;
+    font-family: "Comic Sans MS", Verdana, Sylfaen, Tahoma, Trebuchet;
+    font-weight: bold;
+    color: #000000;
+}
+
+body.mainbody {
+    background: #ffffff;
+}
+
+/* Header */
+
+#header {
+    background: #FFFFFF url("../images/logo2.gif") no-repeat top;
+    margin: 0 auto;
+    min-height: 100%;
+    height: 100%;
+    width: 1000px;
+    clear: both;
+    padding-top: 58px;
+}
+
+/* primary-Menu */
+
+#primary-menu {
+    float: left;
+    width: 1300px;
+    margin: 5px;
+    padding: 0;
+    height: 50px;
+    background: url(../images/header.gif) no-repeat left top;
+}
+
+#primary-menu ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 17em;
+    width: 100%;
+}
+
+#primary-menu a {
+    display: block;
+    margin: 0;
+    padding: 18px 24px 0 24px;
+    text-decoration: none;
+    text-transform: capitalize;
+    background: url(../images/vertical.jpg) no-repeat right top;
+    color: #FFFFFF;
+    height: 32px;
+}
+
+#primary-menu li {
+    position: relative;
+    float:left;
+    list-style:none;
+    display: inline;
+    padding:0px;
+    margin:0px;
+    width:auto;
+    vertical-align: bottom
+}
+
+/* Wrapper */
+
+#wrapper {
+    margin: 0;
+    padding: 0;
+}
+
+/* Page */
+
+#page {
+    padding: 20px 5px;
+    background: #FFFFFF;
+}
+
+/* Content */
+
+#content {
+    float: left;
+    width: 970px;
+    /*padding:0px 10px 0 150px;*/
+    padding:0px 10px 0 0px;
+}
+
+.showpic {
+    border-style: dotted;
+    color: #999999;
+    margin: 10px 5px 5px 5px;
+    text-align: center;
+}
+
+.sidebars #content {
+    width:750px;
+    margin: 10px 5px 5px 15px;
+}
+
+.sidebar-left #content,
+.sidebar-right #content {
+    width:750px;
+
+}
+
+.title-highlight {
+    font-family: Arial;
+    font-size: 35px;
+    text-align: left;
+    font-weight: bolder;
+    color: #0000CD;
+    height: 1.5em;
+}
+
+.who-we-are{
+    font-family: Arial;
+    font-size: 16px;
+    width: 60em;
+}
+
+.featured-function {
+    font-family: Arial;
+    font-size: 1em;
+    color: #F87217;
+    width: 60em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.advertisements {
+/*    background-image: url(../images/advertisements.png);*/
+    background-repeat: no-repeat;
+    height: 17em;
+    width: 62em;
+}
+
+.bookbox{
+    float: left;
+    width: 30em;
+    padding-top: 1em;
+    /*width: 350px;
+    margin: 10px 5px 5px 0px;*/
+}
+
+.howtostart{
+    float: right;
+    width: 30em;
+    padding-top: 1em;
+    /*width:355px;
+    margin: 10px 5px 5px 90px;*/
+}
+/* Sidebars */
+
+#sidebar-left {
+    float: left;
+}
+
+#sidebar-right {
+    float: right;
+}
+
+.sidebar {
+    width: 220px;
+    padding: 0;
+    font-size: 12px;
+}
+
+.sidebar h2 {
+    height: 30px;
+    margin: 0 0 0 0;
+    padding: 10px 15px 0px 15px;
+    background: #890208 url(../images/block-header.jpg) no-repeat left top;
+    letter-spacing: -1px;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+.browse{
+    height: 30px;
+    margin: 0 0 0 0;
+    padding: 10px 15px 0px 15px;
+    background: #890208 url(../images/browse.jpg) no-repeat left top;
+/*    letter-spacing: -1px;
+    font-size: 18px;
+    color: #FFFFFF;*/
+    }
+/* change link color into orange */
+a.view-title {
+    color: #ff9933;
+    font-size: 16px;
+}
+
+.form-submit {
+    border: #FFFFFF 2px;
+    -moz-border-radius-bottomright:10px;
+    -moz-border-radius-topleft:10px;
+    color:#FFFFFF;
+    padding: 2px 10px 2px 10px;
+    /*    background-color:#000088;*/ /*blue*/
+    background-color:#ff3300;
+
+}
+
+.icon-center{
+    text-align: center;
+
+}
+/* Footer */
+
+#footer {
+    clear: both;
+    color: #ffffff;
+    width: 990px;
+    text-align: center;
+    padding: 0;
+    margin: 0 auto;
+    background: #FFFFFF url(../images/top-header.jpg) no-repeat left bottom;
+}

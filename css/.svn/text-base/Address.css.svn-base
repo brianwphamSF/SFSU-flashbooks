@@ -1,0 +1,112 @@
+/*
+    Document   : Address.css
+    Created on : Oct 12, 2010
+    Author     : Wilson Kwok
+*/
+.ship-address-mainbody {
+    padding-top: 1.55em;
+    padding-left: 15em;
+    width: 100em;
+    color: #000000;
+}
+
+.checkout-status {
+    background-image: url(../images/checkout-status-shipping.png);
+    background-repeat: no-repeat;
+    margin-left: 15em;
+    margin-bottom: 2em;
+}
+
+.ship-address-prompt {
+    text-align: justify;
+    font-family: "Comic Sans MS", Verdana, Sylfaen, Tahoma, Trebuchet;
+    font-size: 1em;
+    font-weight: bold;
+    color: #F87217;
+}
+
+.ship-address-instruction {
+    padding: 0;
+    text-align: justify;
+    width: 60em;
+    font-family: "Comic Sans MS", Verdana, Sylfaen, Tahoma, Trebuchet;
+    font-size: 0.8em;
+    color: #000000;
+}
+
+.exist-ship-address-header {
+     width: 62.65em;
+     border-bottom-style: groove;
+     border-color: #3BB9FF;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+}
+
+.exist-ship-address-body-column-one {
+     width: 10em;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+}
+
+.exist-ship-address-body-column-two {
+     width: 70em;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+}
+
+.new-ship-address-body {
+    font-size: 0.8em;
+    text-align: right;
+}
+
+.small-buttons {
+    color:#050;
+    font: bold 84% 'trebuchet ms',helvetica,sans-serif;
+    cursor: pointer;
+}
+
+.ship-address-warning {
+    color: #FF0000;
+    font-size: 1.3em;
+}
+
+.exist-ship-to-this-address-button {
+    border-color:#B4CFEC;
+    background-color:#FFFF00;
+    height: 2.2em;
+    width: 12em;
+    font-size: 0.85em;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.new-ship-to-this-address-button {
+    border-color:#B4CFEC;
+    background-color:#FFFF00;
+    height: 2.2em;
+    width: 12em;
+    font-size: 0.7em;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.new-address-error {
+    color: red;
+    font-size: 0.85em;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.new-address-field-error {
+    color: red;
+    font-size: 0.8em;
+    font-weight: bold;
+    text-align: right;
+}
+
+.separator {
+    width: 50.5em;
+}

@@ -1,0 +1,72 @@
+/*
+    Document   : CheckoutShippingMethod
+    Created on : Sep 28, 2010, 2:37:33 PM
+    Author     : Wilson, Brian
+    Description:
+        Purpose of the stylesheet follows.
+*/
+.ship-method-mainbody {
+    padding-top: 3em;
+    padding-bottom: 0.9em;
+    padding-left: 15em;
+    width: 100em;
+    color: #000000;
+}
+.checkout-status {
+    background-image: url(../images/checkout-status-shipping.png);
+    background-repeat: no-repeat;
+    margin-left: 15em;
+    margin-bottom: 2em;
+}
+.ship-method-prompt {
+    text-align: justify;
+    font-family: "Comic Sans MS", Verdana, Sylfaen, Tahoma, Trebuchet;
+    font-size: 1em;
+    font-weight: bold;
+    color: #F87217;
+}
+.ship-method-instruction {
+    padding-top: 1.5em;
+    text-align: justify;
+    width: 100%;
+    font-family: "Comic Sans MS", Verdana, Sylfaen, Tahoma, Trebuchet;
+    font-size: 0.8em;
+    color: #F87217;
+}
+.ship-method-header {
+     width: 65em;
+     border-bottom-style: groove;
+     border-color: #3BB9FF;
+     padding-bottom: 0.5em;
+     font-family: "Comic Sans MS", Verdana, Sylfaen, Tahoma, Trebuchet;
+     font-size: 0.8em;
+     text-align: left;
+}
+.ship-method-column-body-one {
+     width: 10em;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+}
+.ship-method-column-body-two {
+     width: 6em;
+     padding-left: 1em;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+}
+.ship-method-column-body-three {
+     width: 70em;
+     padding-bottom: 0.5em;
+     font-size: 0.8em;
+     text-align: left;
+}
+.ship-method-button {
+    border-color:#B4CFEC;
+    background-color:#FFFF00;
+    height: 2.2em;
+    width: 15.0em;
+    font-size: 0.85em;
+    font-weight: bold;
+    cursor: pointer;
+}
